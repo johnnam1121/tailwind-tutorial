@@ -6261,6 +6261,10 @@ video {
   height: 100vh;
 }
 
+.text-mammoth {
+  font-size: 8rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
 }
@@ -24679,6 +24683,10 @@ video {
 
   .sm\:h-screen {
     height: 100vh;
+  }
+
+  .sm\:text-mammoth {
+    font-size: 8rem;
   }
 
   .sm\:text-xs {
@@ -43102,6 +43110,10 @@ video {
     height: 100vh;
   }
 
+  .md\:text-mammoth {
+    font-size: 8rem;
+  }
+
   .md\:text-xs {
     font-size: 0.75rem;
   }
@@ -61523,6 +61535,10 @@ video {
     height: 100vh;
   }
 
+  .lg\:text-mammoth {
+    font-size: 8rem;
+  }
+
   .lg\:text-xs {
     font-size: 0.75rem;
   }
@@ -79942,6 +79958,10 @@ video {
 
   .xl\:h-screen {
     height: 100vh;
+  }
+
+  .xl\:text-mammoth {
+    font-size: 8rem;
   }
 
   .xl\:text-xs {
